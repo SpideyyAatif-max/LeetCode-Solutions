@@ -15,6 +15,7 @@
 | [0014-longest-common-prefix](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0066-plus-one) |
 ## String
 |  |
@@ -44,4 +45,12 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0035-search-insert-position) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
