@@ -17,6 +17,7 @@
 | [0035-search-insert-position](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0066-plus-one) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## String Matching
 |  |
 | ------- |
