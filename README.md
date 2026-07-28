@@ -21,6 +21,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +68,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0169-majority-element) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -73,4 +77,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
