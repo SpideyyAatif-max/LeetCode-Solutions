@@ -19,6 +19,7 @@
 | [0053-maximum-subarray](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0164-maximum-gap](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0164-maximum-gap) |
 ## String
 |  |
 | ------- |
@@ -57,4 +58,16 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
