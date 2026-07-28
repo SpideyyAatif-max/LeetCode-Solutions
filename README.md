@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0066-plus-one) |
@@ -46,6 +47,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
