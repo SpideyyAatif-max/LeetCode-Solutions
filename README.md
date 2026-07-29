@@ -22,6 +22,7 @@
 | [0164-maximum-gap](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0001-two-sum](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
