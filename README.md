@@ -27,6 +27,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0495-teemo-attacking](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0495-teemo-attacking) |
 ## String
 |  |
 | ------- |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
