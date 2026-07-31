@@ -24,6 +24,7 @@
 | [0169-majority-element](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0169-majority-element](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
