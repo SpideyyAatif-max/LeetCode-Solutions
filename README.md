@@ -23,6 +23,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0013-roman-to-integer](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | ------- |
 | [0164-maximum-gap](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
