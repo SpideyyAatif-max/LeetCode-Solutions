@@ -1,21 +1,12 @@
 public class Solution {
     public IList<int> FindDuplicates(int[] nums) {
-        Dictionary<int,int> map = new Dictionary<int,int>();
+        HashSet<int> set = new HashSet<int>();
+        List<int> enlist = new List<int>();
         foreach(int num in nums)
         {
-            if(map.ContainsKey(num))
+            if(!set.Add(num))
             {
-                map[num]++;
-            }else{
-                map[num] = 1;
-            }
-        }
-        List<int> enlist = new List<int>();
-        foreach(var x in map)
-        {
-            if(x.Value == 2)
-            {
-                enlist.Add(x.Key);
+                enlist.Add(num);
             }
         }
         return enlist;
