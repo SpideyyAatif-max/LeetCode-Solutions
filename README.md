@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0066-plus-one) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## String
 |  |
 | ------- |
