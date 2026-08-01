@@ -109,4 +109,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
