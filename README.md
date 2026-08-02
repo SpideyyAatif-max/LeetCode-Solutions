@@ -114,4 +114,5 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0511-game-play-analysis-i) |
+| [0550-game-play-analysis-iv](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0550-game-play-analysis-iv) |
 <!---LeetCode Topics End-->
