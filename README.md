@@ -29,6 +29,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0485-max-consecutive-ones](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## String
