@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0035-search-insert-position) |
@@ -57,6 +58,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -87,6 +89,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0169-majority-element) |
