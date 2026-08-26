@@ -10,7 +10,6 @@ public class Solution {
                 int complement = -nums[i] - nums[j];
                 if (seen.Contains(complement)) {
                     result.Add(new List<int> { nums[i], complement, nums[j] });
-                    // Skip duplicates for the second element
                     while (j + 1 < nums.Length && nums[j] == nums[j + 1]) j++;
                 }
                 seen.Add(nums[j]);
