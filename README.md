@@ -34,6 +34,7 @@
 | [0485-max-consecutive-ones](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0561-array-partition](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0561-array-partition) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0169-majority-element](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0561-array-partition) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -133,4 +135,12 @@
 | [0511-game-play-analysis-i](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
