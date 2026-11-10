@@ -23,6 +23,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0169-majority-element) |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0561-array-partition) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SpideyyAatif-max/NeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
